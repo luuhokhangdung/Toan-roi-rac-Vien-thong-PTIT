@@ -1,2 +1,2 @@
-# T-i-li-u-ng-nh-IoT-PTIT
+#IoT PTIT
 VL2
